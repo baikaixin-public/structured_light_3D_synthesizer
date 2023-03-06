@@ -286,30 +286,30 @@ div.code {
     border-bottom: none;
 }
 
-highlight-proj-2parts {
+.highlight-proj-2parts {
     width: 280px;
     margin-left: 30px;
     float: left;
 }
 
-highlight-proj-2parts video {
+.highlight-proj-2parts video {
     width: 100%;
     margin-top: 10px;
 }
 
-highlight-proj-2parts p {
+.highlight-proj-2parts p {
     text-align: center;
     margin-top: 5px;
     margin-bottom: 20px;
 }
 
-highlight-proj-4parts {
+.highlight-proj-4parts {
     width: 200px;
     margin-left: 30px;
     float: left;
 }
 
-highlight-proj-4parts p {
+.highlight-proj-4parts p {
     text-align: center;
     margin-top: 5px;
     margin-bottom: 20px;
