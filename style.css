@@ -286,6 +286,23 @@ div.code {
     border-bottom: none;
 }
 
+highlight-proj-2parts {
+    width: 40%;
+    margin-left: 30px;
+    float: left;
+}
+
+.highlight-proj-2parts video {
+    width: 40%;
+    margin-top: 10px;
+}
+
+.highlight-proj-2parts p {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
 /**************************************************/
 
 .divider {
